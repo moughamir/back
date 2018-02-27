@@ -100,3 +100,7 @@ pre {
 		opacity: 0;
 	}
 }
+
+.email-octopus-form-wrapper {
+  line-height: normal;
+}
