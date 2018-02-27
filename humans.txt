@@ -1,0 +1,14 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Mohamed Moughamir -- Hacker -- @omnizya
+
+# THANKS
+
+    Salah - Logo desgin
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5, Github
