@@ -3,7 +3,7 @@
 
 # TEAM
 
-    amal.berg -- Full stack developer -- @Tamalaline
+    Amal Bergoug -- Full stack developer -- @amal.berg
     Salah Bouzgma -- CG artist / Designer -- @ThantosEnlil
     Mohamed Moughamir -- Hacker CTO -- @omnizya
 
