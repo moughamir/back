@@ -3,12 +3,12 @@
 
 # TEAM
 
-    Mohamed Moughamir -- Hacker -- @omnizya
+    Amal Bergoug -- Full stack developer -- @amal.berg
+    Salah Bouzgma -- CG artist / Designer -- @ThantosEnlil
+    Mohamed Moughamir -- Hacker CTO -- @omnizya
 
-# THANKS
-
-    Salah - Logo desgin
 
 # TECHNOLOGY COLOPHON
 
     CSS3, HTML5, Github
+    ReactJs, Python/Django
